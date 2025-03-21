@@ -13,7 +13,7 @@ const Hero = () => {
 
       <h1 className='head_text'> 
         Summerize Articals With <br className='max-md:hidden'/>
-       <span className='orange_gradient'>Open-Ai Gpt-4</span> 
+       <span className='orange_gradient'>AGI</span> 
       </h1>
 
       <h2 className='desc'>
